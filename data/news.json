@@ -1,43 +1,162 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T20:01:04.696607Z",
+  "updatedAt": "2026-10-20T23:12:37.376756Z",
   "sourcesUpdated": 19,
   "sources": [
-    "Religion News Service",
     "Spiritual Sounding Board",
+    "Religion News Service",
     "Christianity Today",
-    "The Guardian — Religion",
     "Baptist News Global",
     "The Wartburg Watch",
-    "Christian Headlines",
     "Christian Post",
+    "Christian Headlines",
+    "The Guardian — Religion",
     "Crux — Catholic News",
     "The Roys Report",
-    "Surviving Church",
+    "National Catholic Reporter",
     "Channel NewsAsia",
-    "ECA Global",
+    "Straits Times",
     "Charisma News",
     "Abuse Tracker (Bishop Accountability)",
     "MinistryWatch",
     "Relevant Magazine",
-    "National Catholic Reporter",
-    "Straits Times"
+    "ECA Global",
+    "Surviving Church"
   ],
   "sourceCount": 24,
   "itemCount": 120,
   "items": [
     {
-      "title": "Real Madrid seek Super League setup payments from Premier League six",
-      "link": "https://www.channelnewsasia.com/sport/real-madrid-seek-super-league-setup-payments-premier-league-six-6476681",
-      "date": "2026-10-20T19:41:41Z",
+      "title": "ANALYSIS: Hillsong Pastor Carl Lentz’s new book should have been titled ‘Overcoming Responsibility’",
+      "link": "https://roysreport.com/analysis-hillsong-pastor-carl-lentzs-new-book-should-have-been-titled-overcoming-responsibility/",
+      "date": "2026-10-20T22:54:07Z",
+      "source": "The Roys Report",
+      "cat": "accountability"
+    },
+    {
+      "title": "AI data center projects boost US warehouse demand and rents, real estate company JLL says",
+      "link": "https://www.channelnewsasia.com/business/ai-data-center-projects-boost-us-warehouse-demand-and-rents-real-estate-company-jll-says-6476956",
+      "date": "2026-10-20T22:52:50Z",
       "source": "Channel NewsAsia",
       "cat": "asia"
     },
     {
-      "title": "Anthropic recorded net loss of over $80 billion in first half of this year, WSJ reports",
-      "link": "https://www.channelnewsasia.com/business/anthropic-recorded-net-loss-over-80-billion-in-first-half-year-wsj-reports-6476676",
-      "date": "2026-10-20T19:41:08Z",
+      "title": "Ngumoha comes of age on breathless Anfield night",
+      "link": "https://www.channelnewsasia.com/sport/ngumoha-comes-age-breathless-anfield-night-6476946",
+      "date": "2026-10-20T22:47:42Z",
       "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Louis Vuitton and Hermes among luxury retailers looted in French riots",
+      "link": "https://www.channelnewsasia.com/obsessions/france-riots-louis-vuitton-hermes-luxury-stores-looted-6476916",
+      "date": "2026-10-20T22:46:27Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Haze in Singapore: Air quality lies between moderate and unhealthy bands overnight",
+      "link": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-lies-between-moderate-and-unhealthy-bands-overnight",
+      "date": "2026-10-20T22:09:17Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll",
+      "link": "https://www.channelnewsasia.com/business/boj-raise-rates-150-in-december-sticking-quarterly-pace-reuters-poll-6476911",
+      "date": "2026-10-20T22:06:16Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "In poly or ITE? Log in to your ST student account to earn vouchers",
+      "link": "https://www.straitstimes.com/singapore/in-poly-or-ite-log-in-to-your-st-student-account-to-earn-vouchers",
+      "date": "2026-10-20T22:06:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Primary 1 registration changes could cut Phase 2A places at some popular schools by a fifth or more",
+      "link": "https://www.channelnewsasia.com/singapore/p1-primary-schools-registration-phase-2a-alumni-6475436",
+      "date": "2026-10-20T22:00:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Singapore haze: Is your old air purifier still effective, and how much does it cost to run one?",
+      "link": "https://www.channelnewsasia.com/singapore/air-purifier-haze-costs-hepa-filter-6475021",
+      "date": "2026-10-20T22:00:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Commentary: Do Botox and fillers belong in a self-care routine?",
+      "link": "https://www.channelnewsasia.com/commentary/botox-dermal-filler-injectable-beauty-routine-6474861",
+      "date": "2026-10-20T22:00:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Deadline for change: How APEC is accelerating Shenzhen's makeover - and what could last",
+      "link": "https://www.channelnewsasia.com/east-asia/shenzhen-apec-summit-payment-transport-services-safety-6452521",
+      "date": "2026-10-20T22:00:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Episcopal Church finds potential buyer for NYC headquarters",
+      "link": "https://www.christianpost.com/news/episcopal-church-finds-potential-buyer-for-nyc-headquarters.html",
+      "date": "2026-10-20T21:31:00Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Why Christians Need Sabbath in an Exhausted Culture",
+      "link": "https://www.crosswalk.com/headlines/contributors/guest-commentary/rising-fatigue-gift-of-sabbath-rest.html",
+      "date": "2026-10-20T21:00:00Z",
+      "source": "Christian Headlines",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Keesee Trial Testimony Renews Questions About Faith Life Church’s Knowledge Defense subpoenas sought church records and witness communications as prior-knowledge questions surfaced",
+      "link": "https://ministrywatch.com/keesee-trial-testimony-renews-questions-about-faith-life-churchs-knowledge/",
+      "date": "2026-10-20T20:55:52Z",
+      "source": "MinistryWatch",
+      "cat": "accountability"
+    },
+    {
+      "title": "Virginia Supreme Court allows lawsuit against McLean Bible Church to continue",
+      "link": "https://www.christianpost.com/news/va-supreme-court-allows-mclean-bible-church-lawsuit-to-continue.html",
+      "date": "2026-10-20T20:35:00Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Adam Hamilton says Christians don't have to believe in virgin birth of Jesus",
+      "link": "https://www.christianpost.com/news/adam-hamiltons-comments-on-jesus-virgin-birth-spark-controversy.html",
+      "date": "2026-10-20T20:28:07Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "On this Date: Church Closure Projection Examined Plus, Steve Viars removed from leadership, Mike Bickle accused of “serious allegations,” Sewanee petition against Eric Metaxas, and",
+      "link": "https://ministrywatch.com/on-this-date-church-closure-projection-examined/",
+      "date": "2026-10-20T20:18:51Z",
+      "source": "MinistryWatch",
+      "cat": "accountability"
+    },
+    {
+      "title": "Israel Blocks First Major Step in Trump’s Board of Peace Gaza Plan",
+      "link": "https://mycharisma.com/news/israel-blocks-first-major-step-in-trumps-board-of-peace-gaza-plan/",
+      "date": "2026-10-20T20:01:24Z",
+      "source": "Charisma News",
+      "cat": "evangelical"
+    },
+    {
+      "title": "TCM physician, musician, rail engineer: Three S’poreans who made a mid-career switch into tech",
+      "link": "https://www.straitstimes.com/singapore/jobs/mid-career-switch-tech-ai-roles-edb",
+      "date": "2026-10-20T20:00:00Z",
+      "source": "Straits Times",
       "cat": "asia"
     },
     {
@@ -55,39 +174,11 @@
       "cat": "evangelical"
     },
     {
-      "title": "Bavuma battles adversity to put South Africa in control",
-      "link": "https://www.channelnewsasia.com/sport/bavuma-battles-adversity-put-south-africa-in-control-6476666",
-      "date": "2026-10-20T19:28:14Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Prince Harry says he wants to reconcile with family",
-      "link": "https://www.channelnewsasia.com/world/prince-harry-says-he-wants-reconcile-family-6476621",
-      "date": "2026-10-20T19:26:42Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "At least 17 data center campuses proposed on US public lands, group says",
-      "link": "https://www.channelnewsasia.com/business/least-17-data-center-campuses-proposed-us-public-lands-group-says-6476651",
-      "date": "2026-10-20T19:15:21Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
       "title": "American Jews’ toxic family feud over Israel",
       "link": "https://religionnews.com/2026/10/20/american-jews-toxic-family-feud-over-israel/",
       "date": "2026-10-20T18:47:56Z",
       "source": "Religion News Service",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "Wall Street gains as healthcare stocks rally, oil prices fall",
-      "link": "https://www.channelnewsasia.com/world/wall-street-gains-healthcare-stocks-rally-oil-prices-fall-6476586",
-      "date": "2026-10-20T18:45:48Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
     },
     {
       "title": "What to know about Kenya’s starvation cult after its leader is convicted on 191 murder charges",
@@ -109,20 +200,6 @@
       "date": "2026-10-20T18:37:52Z",
       "source": "Religion News Service",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "Saudi says intercepted Houthi missile, blasts heard in capital",
-      "link": "https://www.channelnewsasia.com/world/saudi-arabia-houthi-strikes-intercepted-riyadh-6476551",
-      "date": "2026-10-20T18:31:21Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "SpaceX investors, ahead of results, press Musk on Tesla merger",
-      "link": "https://www.channelnewsasia.com/business/spacex-investors-ahead-results-press-musk-tesla-merger-6476556",
-      "date": "2026-10-20T18:13:28Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
     },
     {
       "title": "How to have a creative life of light and love",
@@ -286,13 +363,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "Lindsay Clancy holdout juror calls her actions ‘methodical’; leaned on his faith after refusing 'not guilty' verdict",
-      "link": "https://www.christianpost.com/news/lindsay-clancy-holdout-juror-discusses-catholic-faith-law-school.html",
-      "date": "2026-10-20T15:10:16Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
       "title": "Where Do Americans Vote? The Surprising Role of Churches in Election Day",
       "link": "https://baptistnews.com/article/where-do-americans-vote-the-surprising-role-of-churches-in-election-day/",
       "date": "2026-10-20T15:08:09Z",
@@ -361,13 +431,6 @@
       "date": "2026-10-20T14:26:21Z",
       "source": "Abuse Tracker (Bishop Accountability)",
       "cat": "accountability"
-    },
-    {
-      "title": "Myanmar military destroys churches, accused violating humanitarian law",
-      "link": "https://www.christianpost.com/news/myanmar-military-destroys-churches-accused-violating-law.html",
-      "date": "2026-10-20T14:26:00Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
     },
     {
       "title": "NUNS VS. THE VATICAN to Open in Los Angeles Theaters",
@@ -447,13 +510,6 @@
       "cat": "accountability"
     },
     {
-      "title": "Talarico credits PCUSA pastor with encouraging Senate run as 'a form of ministry'",
-      "link": "https://www.christianpost.com/news/talarico-credits-pastor-with-encouraging-senate-run-as-ministry.html",
-      "date": "2026-10-20T13:01:48Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
       "title": "Church leaders condemn Israeli settler attacks on Palestinians",
       "link": "https://cruxnow.com/church-in-the-middle-east/2026/10/church-leaders-condemn-israeli-settler-attacks-on-palestinians/",
       "date": "2026-10-20T13:00:11Z",
@@ -508,27 +564,6 @@
       "date": "2026-10-20T11:36:48Z",
       "source": "Religion News Service",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "30-year-old motorcyclist dies after accident with lorry near West Coast Park",
-      "link": "https://www.straitstimes.com/singapore/30-year-old-motorcyclist-dies-after-accident-with-lorry-near-west-coast-park",
-      "date": "2026-10-20T11:24:05Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Tackling workplace ageism is critical in super-aged Singapore, says expert",
-      "link": "https://www.straitstimes.com/singapore/health/tackling-workplace-ageism-is-critical-in-super-aged-singapore",
-      "date": "2026-10-20T10:59:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Sparks fly as special region-specific Pikachu goes live at Changi Airport",
-      "link": "https://www.straitstimes.com/singapore/sparks-fly-as-special-pikachu-goes-live-at-changi-airport",
-      "date": "2026-10-20T10:10:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
     },
     {
       "title": "“Can Religion Save Democracy”? Yes, But Not Like This.",
@@ -643,24 +678,10 @@
       "cat": "evangelical"
     },
     {
-      "title": "Pray: Minnesota Pastor and 3-Year-Old Son Killed in Devastating Accident",
-      "link": "https://mycharisma.com/news/pray-minnesota-pastor-and-3-year-old-son-killed-in-devastating-accident/",
-      "date": "2026-10-19T20:27:02Z",
-      "source": "Charisma News",
-      "cat": "evangelical"
-    },
-    {
       "title": "Bono Says He Doesn’t Want God Left Out of the Mainstream",
       "link": "https://relevantmagazine.com/culture/bono-says-he-doesnt-want-god-left-out-of-the-mainstream/",
       "date": "2026-10-19T20:01:09Z",
       "source": "Relevant Magazine",
-      "cat": "evangelical"
-    },
-    {
-      "title": "Hulvey Cancels Sold-Out Show over Graphic Images: 'I Stand for Jesus Only'",
-      "link": "https://www.crosswalk.com/headlines/contributors/michael-foust/hulvey-cancels-sold-out-show-over-graphic-images-i-stand-for-jesus-only.html",
-      "date": "2026-10-19T19:48:00Z",
-      "source": "Christian Headlines",
       "cat": "evangelical"
     },
     {
@@ -844,27 +865,6 @@
       "date": "2026-10-16T02:37:32Z",
       "source": "Relevant Magazine",
       "cat": "evangelical"
-    },
-    {
-      "title": "Stewards, Not Owners, of Every Dollar The Wichtermans see wealth, time, and work as tools for Kingdom impact, not personal security.",
-      "link": "https://ministrywatch.com/stewards-not-owners-of-every-dollar/",
-      "date": "2026-10-16T01:43:32Z",
-      "source": "MinistryWatch",
-      "cat": "accountability"
-    },
-    {
-      "title": "MinistryWatch 1000 Database Tops 1,800 Ministries — and Counting Plus, other notable ministry happenings from this week.",
-      "link": "https://ministrywatch.com/ministrywatch-1000-database-tops-1800-ministries-and-counting/",
-      "date": "2026-10-16T01:30:50Z",
-      "source": "MinistryWatch",
-      "cat": "accountability"
-    },
-    {
-      "title": "Seattle pastor who planned new social media platform charged with $13 million fraud",
-      "link": "https://roysreport.com/seattle-pastor-who-planned-new-social-media-platform-charged-with-13-million-fraud/",
-      "date": "2026-10-15T21:36:28Z",
-      "source": "The Roys Report",
-      "cat": "accountability"
     }
   ]
 }
