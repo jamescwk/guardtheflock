@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T04:55:53.681184Z",
+  "updatedAt": "2026-10-20T13:35:15.613141Z",
   "sourcesUpdated": 19,
   "sources": [
-    "Christianity Today",
     "Spiritual Sounding Board",
+    "Christianity Today",
+    "Baptist News Global",
     "Religion News Service",
     "The Wartburg Watch",
     "The Guardian — Religion",
     "Christian Headlines",
     "Christian Post",
-    "National Catholic Reporter",
     "Crux — Catholic News",
-    "The Roys Report",
-    "Abuse Tracker (Bishop Accountability)",
-    "Baptist News Global",
+    "National Catholic Reporter",
     "Channel NewsAsia",
-    "Charisma News",
     "Straits Times",
     "Surviving Church",
+    "The Roys Report",
+    "Abuse Tracker (Bishop Accountability)",
     "MinistryWatch",
+    "Charisma News",
     "Relevant Magazine",
     "ECA Global"
   ],
@@ -27,74 +27,319 @@
   "itemCount": 120,
   "items": [
     {
-      "title": "Singapore tech giant Sea plans IPO for financial services arm Monee, memo says",
-      "link": "https://www.channelnewsasia.com/business/sea-ipo-monee-forrest-li-6474506",
-      "date": "2026-10-20T04:44:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
+      "title": "An ‘empathy gap’ divides Americans ahead of the midterms, says PRRI report",
+      "link": "https://religionnews.com/2026/10/20/an-empathy-gap-divides-americans-ahead-of-the-midterms-say-prri-report/",
+      "date": "2026-10-20T13:25:30Z",
+      "source": "Religion News Service",
+      "cat": "mainstreamreligion"
     },
     {
-      "title": "‘It was crazy’: Australian barber hailed as hero after rushing to lawmaker’s rescue",
-      "link": "https://www.channelnewsasia.com/world/australia-attack-barber-hero-helen-haines-6474301",
-      "date": "2026-10-20T04:24:40Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
+      "title": "Pope Leo XIV urges humanitarian cooperation between Ukraine and Russia during call with Zelenskyy",
+      "link": "https://cruxnow.com/vatican/2026/10/pope-leo-xiv-urges-humanitarian-cooperation-between-ukraine-and-russia-during-call-with-zelenskyy/",
+      "date": "2026-10-20T13:22:38Z",
+      "source": "Crux — Catholic News",
+      "cat": "catholic"
     },
     {
-      "title": "Brother of convicted money launderer forfeits $10 million Sentosa bungalow; handed one year jail",
-      "link": "https://www.straitstimes.com/singapore/courts-crime/brother-of-convicted-money-launderer-forfeits-10-million-sentosa-bungalow-handed-one-year-jail",
-      "date": "2026-10-20T04:20:46Z",
+      "title": "Vatican upholds excommunication of deacon whose son was abused by priest",
+      "link": "https://www.bishop-accountability.org/2026/10/vatican-upholds-excommunication-of-deacon-whose-son-was-abused-by-priest/",
+      "date": "2026-10-20T13:17:39Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "LAST CHANCE TO REGISTER: WEBINAR – “Trusting the Voice You were Taught to Doubt”",
+      "link": "https://www.bishop-accountability.org/2026/10/last-chance-to-register-webinar-trusting-the-voice-you-were-taught-to-doubt/",
+      "date": "2026-10-20T13:12:07Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "Singapore, Sweden to boost cooperation in clean energy transition, public policy",
+      "link": "https://www.straitstimes.com/singapore/politics/singapore-sweden-to-boost-cooperation-in-clean-energy-transition-public-policy",
+      "date": "2026-10-20T13:08:29Z",
       "source": "Straits Times",
       "cat": "asia"
     },
     {
-      "title": "Game On, Dreamers is a 3-day festival at Marina Bay Sands with cosplay, competitive gaming and arcade games",
-      "link": "https://www.channelnewsasia.com/entertainment/game-dreamers-marina-bay-sands-6474381",
-      "date": "2026-10-20T04:16:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Software upgrades eat nearly a third of companies' IT budgets, survey finds",
-      "link": "https://www.channelnewsasia.com/business/software-upgrades-eat-nearly-third-companies-it-budgets-survey-finds-6474511",
-      "date": "2026-10-20T04:09:37Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Netanyahu basks in Trump endorsement week before election",
-      "link": "https://www.channelnewsasia.com/world/netanyahu-trump-endorsement-israel-election-6474501",
-      "date": "2026-10-20T04:09:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "How safe havens stack up as tech, energy and France fears grip markets",
-      "link": "https://www.channelnewsasia.com/business/how-safe-havens-stack-up-tech-energy-and-france-fears-grip-markets-6474496",
-      "date": "2026-10-20T04:06:09Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "A legacy in motion: 4 considerations as family needs and markets change",
-      "link": "https://www.channelnewsasia.com/advertorial/legacy-in-motion-4-considerations-family-needs-and-markets-change-6410476",
-      "date": "2026-10-20T04:05:27Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Man charged with stealing red packet box from wedding reception at Raffles Hotel",
-      "link": "https://www.channelnewsasia.com/singapore/man-charged-steal-red-packet-box-wedding-raffles-hotel-6474436",
-      "date": "2026-10-20T04:01:53Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Behind the blazes: ST looks at 10 firms issued notices under S’pore haze law",
-      "link": "https://www.straitstimes.com/singapore/behind-the-blazes-st-looks-at-10-firms-issued-notices-under-spore-haze-law",
-      "date": "2026-10-20T03:20:00Z",
+      "title": "Teen assisting in investigations after attempt to smuggle controlled weapons, ammunition into S’pore",
+      "link": "https://www.straitstimes.com/singapore/teen-assisting-in-investigations-after-attempt-to-smuggle-controlled-weapons-ammunition-into-spore",
+      "date": "2026-10-20T13:07:00Z",
       "source": "Straits Times",
       "cat": "asia"
+    },
+    {
+      "title": "Bishop urges Church to make abuse prevention a lasting culture",
+      "link": "https://www.bishop-accountability.org/2026/10/bishop-urges-church-to-make-abuse-prevention-a-lasting-culture/",
+      "date": "2026-10-20T13:06:35Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "Talarico credits PCUSA pastor with encouraging Senate run as 'a form of ministry'",
+      "link": "https://www.christianpost.com/news/talarico-credits-pastor-with-encouraging-senate-run-as-ministry.html",
+      "date": "2026-10-20T13:01:48Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Church leaders condemn Israeli settler attacks on Palestinians",
+      "link": "https://cruxnow.com/church-in-the-middle-east/2026/10/church-leaders-condemn-israeli-settler-attacks-on-palestinians/",
+      "date": "2026-10-20T13:00:11Z",
+      "source": "Crux — Catholic News",
+      "cat": "catholic"
+    },
+    {
+      "title": "Vatican excommunicates abuse victim’s father. His son’s abuser is still a priest.",
+      "link": "https://www.bishop-accountability.org/2026/10/vatican-excommunicates-abuse-victims-father-his-sons-abuser-is-still-a-priest/",
+      "date": "2026-10-20T12:58:26Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "Perry Co. pastor charged after allegedly creating AI child sexual abuse material",
+      "link": "https://www.bishop-accountability.org/2026/10/perry-co-pastor-charged-after-allegedly-creating-ai-child-sexual-abuse-material/",
+      "date": "2026-10-20T12:56:22Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "Israel at Crossroads: Can Netanyahu Win Another Mandate?",
+      "link": "https://mycharisma.com/news/israel-at-crossroads-can-netanyahu-win-another-mandate/",
+      "date": "2026-10-20T12:55:42Z",
+      "source": "Charisma News",
+      "cat": "evangelical"
+    },
+    {
+      "title": "What happened in September 2026 in the clergy sexual abuse crisis?",
+      "link": "https://www.bishop-accountability.org/2026/10/what-happened-in-september-2026-in-the-clergy-sexual-abuse-crisis/",
+      "date": "2026-10-20T12:52:42Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "Waymo to launch autonomous ride-hailing in Madrid next year",
+      "link": "https://www.channelnewsasia.com/business/waymo-launch-autonomous-ride-hailing-in-madrid-next-year-6475706",
+      "date": "2026-10-20T12:50:33Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Zurich Reformed Church investigates abuse by vicar",
+      "link": "https://www.bishop-accountability.org/2026/10/zurich-reformed-church-investigates-abuse-by-vicar/",
+      "date": "2026-10-20T12:44:07Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "Indonesian firm APP says green label restrictions are not a suspension, no timeline for them to be lifted",
+      "link": "https://www.channelnewsasia.com/singapore/asia-pulp-paper-green-label-environment-council-6475346",
+      "date": "2026-10-20T12:44:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Indian Catholic priest arrested, accused of abusing boys",
+      "link": "https://www.bishop-accountability.org/2026/10/indian-catholic-priest-arrested-accused-of-abusing-boys/",
+      "date": "2026-10-20T12:41:18Z",
+      "source": "Abuse Tracker (Bishop Accountability)",
+      "cat": "accountability"
+    },
+    {
+      "title": "Ronaldo let Man United down, says club's former boss Ten Hag",
+      "link": "https://www.channelnewsasia.com/sport/ronaldo-let-man-united-down-says-clubs-former-boss-ten-hag-6475631",
+      "date": "2026-10-20T12:36:25Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Jim Bakker’s legacy offers warnings about prosperity gospel, unchecked church power",
+      "link": "https://www.christianpost.com/news/jim-bakkers-legacy-offers-warnings-about-prosperity-gospel.html",
+      "date": "2026-10-20T12:26:45Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Another Pastor Murdered in Latin America, This Time by Colombian Gang Members He Was Evangelizing",
+      "link": "https://mycharisma.com/news/another-pastor-murdered-in-latin-america-this-time-by-colombian-gang-members-he-was-evangelizing/",
+      "date": "2026-10-20T12:16:11Z",
+      "source": "Charisma News",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Salesforce to acquire Braze in a $5.66 billion deal",
+      "link": "https://www.channelnewsasia.com/business/salesforce-acquire-braze-in-566-billion-deal-6475576",
+      "date": "2026-10-20T12:09:15Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "MOM issues new guidelines for employers to adjust outdoor work based on hourly PM2.5 readings",
+      "link": "https://www.channelnewsasia.com/singapore/mom-guidelines-pm25-outdoor-work-6475416",
+      "date": "2026-10-20T12:06:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
+      "link": "https://www.channelnewsasia.com/business/apple-commits-up-100-million-us-titanium-in-domestic-manufacturing-push-6475551",
+      "date": "2026-10-20T12:02:40Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "'Still have to work no matter what': Food delivery riders torn between health and income during haze",
+      "link": "https://www.channelnewsasia.com/singapore/food-delivery-riders-health-income-haze-platform-workers-6474361",
+      "date": "2026-10-20T11:58:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Singapore’s Toh Wei Soong clinches second medal at 2026 Asian Para Games",
+      "link": "https://www.channelnewsasia.com/sport/toh-wei-soong-second-medal-singapore-asian-para-games-6475361",
+      "date": "2026-10-20T11:54:07Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "TS Eliot’s Murder in the Cathedral review – gather in wonder at David Suchet’s excellent archbishop",
+      "link": "https://www.theguardian.com/stage/2026/oct/20/ts-eliot-murder-in-the-cathedral-review-david-suchet",
+      "date": "2026-10-20T11:50:30Z",
+      "source": "The Guardian — Religion",
+      "cat": "mainstreamreligion"
+    },
+    {
+      "title": "Dallas faith groups, volunteer lawyers amplify legal support for detained immigrants",
+      "link": "https://religionnews.com/2026/10/20/dallas-faith-groups-volunteer-lawyers-expand-legal-support-for-detained-immigrants/",
+      "date": "2026-10-20T11:36:48Z",
+      "source": "Religion News Service",
+      "cat": "mainstreamreligion"
+    },
+    {
+      "title": "30-year-old motorcyclist dies after accident with lorry near West Coast Park",
+      "link": "https://www.straitstimes.com/singapore/30-year-old-motorcyclist-dies-after-accident-with-lorry-near-west-coast-park",
+      "date": "2026-10-20T11:24:05Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Tackling workplace ageism is critical in super-aged Singapore",
+      "link": "https://www.straitstimes.com/singapore/health/tackling-workplace-ageism-is-critical-in-super-aged-singapore",
+      "date": "2026-10-20T10:59:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Sparks fly as special region-specific Pikachu goes live at Changi Airport",
+      "link": "https://www.straitstimes.com/singapore/sparks-fly-as-special-pikachu-goes-live-at-changi-airport",
+      "date": "2026-10-20T10:10:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "“Can Religion Save Democracy”? Yes, But Not Like This.",
+      "link": "https://www.christianitytoday.com/2026/10/can-religion-save-democracy-review/",
+      "date": "2026-10-20T10:00:00Z",
+      "source": "Christianity Today",
+      "cat": "evangelical"
+    },
+    {
+      "title": "US Orthodox Challenge Claims That Kyiv Persecutes Christians",
+      "link": "https://www.christianitytoday.com/2026/10/us-orthodox-challenge-claims-that-kyiv-persecutes-christians/",
+      "date": "2026-10-20T10:00:00Z",
+      "source": "Christianity Today",
+      "cat": "evangelical"
+    },
+    {
+      "title": "How to Confront Social Ills Without Demonizing Others",
+      "link": "https://www.christianitytoday.com/2026/10/how-to-confront-social-ills-without-demonizing-others/",
+      "date": "2026-10-20T10:00:00Z",
+      "source": "Christianity Today",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Small modular nuclear reactors: Singapore’s answer to energy security?",
+      "link": "https://www.straitstimes.com/singapore/environment/small-modular-nuclear-reactors-singapores-answer-to-energy-security",
+      "date": "2026-10-20T10:00:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Nearly $1 million lost through impersonation scams linked to fake social media ads",
+      "link": "https://www.straitstimes.com/singapore/nearly-1-million-lost-through-impersonation-scams-linked-to-fake-social-media-ads",
+      "date": "2026-10-20T09:59:16Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Consumers can put pressure on haze-linked firms by buying green-labelled products: Experts",
+      "link": "https://www.straitstimes.com/singapore/environment/consumers-can-put-pressure-on-haze-linked-firms-by-buying-green-labelled-products-experts",
+      "date": "2026-10-20T09:55:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Coalition of pastors unite behind Ken Paxton amid tightening Senate race",
+      "link": "https://www.christianpost.com/news/coalition-of-pastors-unite-behind-ken-paxton-amid-tightening-race.html",
+      "date": "2026-10-20T09:31:01Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Want to know God’s will? Stop negotiating with Him",
+      "link": "https://www.christianpost.com/voices/want-to-know-gods-will-stop-negotiating-with-him.html",
+      "date": "2026-10-20T09:12:55Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "JD Vance got socialism partly right. Cubans know the rest.",
+      "link": "https://www.christianpost.com/voices/jd-vance-got-socialism-partly-right-cubans-know-the-rest.html",
+      "date": "2026-10-20T08:40:07Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Evangelicalism’s rancid rot is inside. It demands repentance.",
+      "link": "https://www.christianpost.com/voices/evangelicalisms-rancid-rot-is-inside-it-demands-repentance.html",
+      "date": "2026-10-20T08:12:14Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Trump's deportation crackdown may influence how Catholics vote in midterms",
+      "link": "https://www.ncronline.org/news/trumps-deportation-crackdown-may-influence-how-catholics-vote-midterms",
+      "date": "2026-10-20T08:00:00Z",
+      "source": "National Catholic Reporter",
+      "cat": "catholic"
+    },
+    {
+      "title": "The Leo Chronicles: Brother Leo in Somalia",
+      "link": "https://www.ncronline.org/vatican/leo-chronicles/leo-chronicles-brother-leo-somalia",
+      "date": "2026-10-20T08:00:00Z",
+      "source": "National Catholic Reporter",
+      "cat": "catholic"
+    },
+    {
+      "title": "‘Lack of curiosity’ about family’s religious beliefs was ‘missed opportunity’ to save eight-year-old, inquest hears",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/20/elizabeth-struhs-death-inquest-saints-religious-sect-coroner-evidence-ntwnfb",
+      "date": "2026-10-20T06:28:57Z",
+      "source": "The Guardian — Religion",
+      "cat": "mainstreamreligion"
+    },
+    {
+      "title": "For the love of God, stop making transfolk the butt of your jokes",
+      "link": "https://baptistnews.com/article/for-the-love-of-god-stop-making-transfolk-the-butt-of-your-jokes/",
+      "date": "2026-10-20T06:07:05Z",
+      "source": "Baptist News Global",
+      "cat": "evangelical"
+    },
+    {
+      "title": "I don’t need to read the comments",
+      "link": "https://baptistnews.com/article/i-dont-need-to-read-the-comments/",
+      "date": "2026-10-20T05:09:24Z",
+      "source": "Baptist News Global",
+      "cat": "evangelical"
     },
     {
       "title": "Excel College Faces Flood of Complaints UNC System requests investigation of Christian college near Black Mountain.",
@@ -153,20 +398,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "Man arrested for allegedly using electronic device to illegally obtain bank card information",
-      "link": "https://www.straitstimes.com/singapore/man-arrested-for-allegedly-using-electronic-device-to-illegally-obtain-bank-card-information",
-      "date": "2026-10-19T22:35:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Haze in Singapore: Unhealthy PSI levels hit most regions as air quality dips",
-      "link": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-with-3-of-5-regions-recording-moderate-psi-levels",
-      "date": "2026-10-19T22:25:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
       "title": "El-Sayed, Vance pressed on religion, loyalty and immigration",
       "link": "https://religionnews.com/2026/10/19/el-sayed-and-vance-face-questions-about-faith-and-politics/",
       "date": "2026-10-19T22:24:00Z",
@@ -209,13 +440,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "Priest killed by falling crucifix during livestreamed mass in Ecuador",
-      "link": "https://www.christianpost.com/news/priest-killed-by-falling-crucifix-during-mass-in-ecuador.html",
-      "date": "2026-10-19T20:37:00Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
       "title": "Pray: Minnesota Pastor and 3-Year-Old Son Killed in Devastating Accident",
       "link": "https://mycharisma.com/news/pray-minnesota-pastor-and-3-year-old-son-killed-in-devastating-accident/",
       "date": "2026-10-19T20:27:02Z",
@@ -237,13 +461,6 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Nearly $400K raised to help father who shot Oregon school shooter treat trauma",
-      "link": "https://www.christianpost.com/news/nearly-400k-raised-to-help-hero-who-shot-oregon-shooter.html",
-      "date": "2026-10-19T20:08:45Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
       "title": "Bono Says He Doesn’t Want God Left Out of the Mainstream",
       "link": "https://relevantmagazine.com/culture/bono-says-he-doesnt-want-god-left-out-of-the-mainstream/",
       "date": "2026-10-19T20:01:09Z",
@@ -262,13 +479,6 @@
       "link": "https://www.crosswalk.com/headlines/contributors/michael-foust/hulvey-cancels-sold-out-show-over-graphic-images-i-stand-for-jesus-only.html",
       "date": "2026-10-19T19:48:00Z",
       "source": "Christian Headlines",
-      "cat": "evangelical"
-    },
-    {
-      "title": "Jewish charter school falls short of approval from Oklahoma school board",
-      "link": "https://www.christianpost.com/news/jewish-charter-school-falls-short-of-approval-in-oklahoma.html",
-      "date": "2026-10-19T19:47:00Z",
-      "source": "Christian Post",
       "cat": "evangelical"
     },
     {
@@ -293,32 +503,11 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Christian rapper Hulvey cancels sold-out concert over pornographic images on display at venue: 'I stand for Jesus'",
-      "link": "https://www.christianpost.com/news/hulvey-cancels-sold-out-concert-over-pornographic-images-in-venue.html",
-      "date": "2026-10-19T19:23:05Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
       "title": "Israeli settlers torch cars and trees in West Bank villages, disrupting Palestinians’ olive harvest",
       "link": "https://religionnews.com/2026/10/19/israeli-settlers-torch-cars-and-trees-in-west-bank-villages-disrupting-palestinians-olive-harvest/",
       "date": "2026-10-19T19:21:20Z",
       "source": "Religion News Service",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "White Evangelicals backing GOP midterm candidates, but other religious groups favor Democrats: Pew poll",
-      "link": "https://www.christianpost.com/news/pew-poll-reveals-who-evangelicals-are-supporting-in-the-midterms.html",
-      "date": "2026-10-19T19:01:09Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
-      "title": "Bones, other clues uncovered at pornographic filmmakers' 'house of horrors' linked to missing women",
-      "link": "https://www.christianpost.com/news/bones-found-at-house-of-horrors-tied-to-7-missing-women.html",
-      "date": "2026-10-19T18:53:00Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
     },
     {
       "title": "Pope Leo XIV urges humanitarian cooperation between Ukraine and Russia during call with Zelenskyy",
@@ -347,13 +536,6 @@
       "date": "2026-10-19T18:08:41Z",
       "source": "Charisma News",
       "cat": "evangelical"
-    },
-    {
-      "title": "Actor Chris Pratt joins Pope Leo in new documentary about St. Peter’s long-lost remains",
-      "link": "https://religionnews.com/2026/10/19/actor-chris-pratt-joins-pope-leo-in-new-documentary-about-st-peters-long-lost-remains/",
-      "date": "2026-10-19T17:44:32Z",
-      "source": "Religion News Service",
-      "cat": "mainstreamreligion"
     },
     {
       "title": "Temporary protections for Ukrainians in US set to expire, trigger deportation, archbishop says",
@@ -391,13 +573,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "Calvary Chapel Pastor and Wife Killed Outside Home, Leaving 2 Teenage Children",
-      "link": "https://mycharisma.com/news/calvary-chapel-pastor-and-wife-killed-outside-home-leaving-2-teenage-children/",
-      "date": "2026-10-19T16:40:28Z",
-      "source": "Charisma News",
-      "cat": "evangelical"
-    },
-    {
       "title": "Civil rights groups sued to stop DHS voter intimidation",
       "link": "https://baptistnews.com/article/civil-rights-groups-sued-to-stop-dhs-voter-intimidation/",
       "date": "2026-10-19T16:34:04Z",
@@ -426,13 +601,6 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Andy Stanley Stepping Down From North Point After 31 Years",
-      "link": "https://mycharisma.com/news/andy-stanley-stepping-down-from-north-point-after-31-years/",
-      "date": "2026-10-19T16:01:42Z",
-      "source": "Charisma News",
-      "cat": "evangelical"
-    },
-    {
       "title": "Megan Basham is wrong about who is a Christian",
       "link": "https://baptistnews.com/article/megan-basham-is-wrong-about-who-is-a-christian/",
       "date": "2026-10-19T15:55:50Z",
@@ -444,20 +612,6 @@
       "link": "https://relevantmagazine.com/culture/nathan-fielders-3-hour-elizabeth-holmes-documentary-just-had-the-biggest-doc-opening-in-20-years/",
       "date": "2026-10-19T15:17:47Z",
       "source": "Relevant Magazine",
-      "cat": "evangelical"
-    },
-    {
-      "title": "From Counterculture Threat to Venture Capital Darling",
-      "link": "https://baptistnews.com/article/from-counterculture-threat-to-venture-capital-darling/",
-      "date": "2026-10-19T15:13:25Z",
-      "source": "Baptist News Global",
-      "cat": "evangelical"
-    },
-    {
-      "title": "Florida churches turn backpack drives into a gateway to immigration advocacy",
-      "link": "https://baptistnews.com/article/florida-churches-turn-backpack-drives-into-a-gateway-to-immigration-advocacy/",
-      "date": "2026-10-19T15:08:45Z",
-      "source": "Baptist News Global",
       "cat": "evangelical"
     },
     {
@@ -482,81 +636,11 @@
       "cat": "evangelical"
     },
     {
-      "title": "Firefly plans to resume all Subang-Seletar flights on Oct 22 after haze cancellations",
-      "link": "https://www.straitstimes.com/singapore/firefly-plans-oct-22-resumption-of-all-subang-seletar-flights-after-haze-cancellations",
-      "date": "2026-10-19T14:10:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Singapore and Sweden to expand cooperation in emerging tech, sustainable energy",
-      "link": "https://www.straitstimes.com/singapore/politics/singapore-and-sweden-to-expand-cooperation-in-emerging-tech-sustainable-energy",
-      "date": "2026-10-19T12:55:27Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "In cases of sexual assault, may we not be Doubting Thomases",
-      "link": "https://www.bishop-accountability.org/2026/10/in-cases-of-sexual-assault-may-we-not-be-doubting-thomases/",
-      "date": "2026-10-19T12:41:55Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
       "title": "'We Simply Want Peace': Ukrainian Parents Share Heartbreaking Reality of Raising Children in a War Zone",
       "link": "https://www.crosswalk.com/headlines/contributors/elizabeth-delaney/we-simply-want-peace-ukrainian-parents-share-heartbreaking-reality-of-raising-children-in-a-war-zone.html",
       "date": "2026-10-19T12:40:00Z",
       "source": "Christian Headlines",
       "cat": "evangelical"
-    },
-    {
-      "title": "GU Updates Clerical Sex Abuse Page After New Misconduct Allegations",
-      "link": "https://www.bishop-accountability.org/2026/10/gu-updates-clerical-sex-abuse-page-after-new-misconduct-allegations/",
-      "date": "2026-10-19T12:39:23Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
-      "title": "Singapore, Qatar to work towards upgrading ties to strategic partnership",
-      "link": "https://www.straitstimes.com/singapore/singapore-qatar-to-explore-further-cooperation-in-energy-security-supply-chain-resilience",
-      "date": "2026-10-19T12:39:22Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Women’s and Gender Studies hosts panel about sexual assault on college campuses",
-      "link": "https://www.bishop-accountability.org/2026/10/womens-and-gender-studies-hosts-panel-about-sexual-assault-on-college-campuses/",
-      "date": "2026-10-19T12:32:46Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
-      "title": "Editorial: Poll a sign for pols to ax child abuse lawsuit deadline",
-      "link": "https://www.bishop-accountability.org/2026/10/editorial-poll-a-sign-for-pols-to-ax-child-abuse-lawsuit-deadline/",
-      "date": "2026-10-19T12:29:09Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
-      "title": "Polish episcopate to discuss start of sexual abuse commission’s work",
-      "link": "https://www.bishop-accountability.org/2026/10/polish-episcopate-to-discuss-start-of-sexual-abuse-commissions-work/",
-      "date": "2026-10-19T12:27:06Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
-      "title": "NUH offers precision brain stimulation to treat depression and anxiety",
-      "link": "https://www.straitstimes.com/singapore/health/nuh-offers-precision-brain-stimulation-to-treat-depression-and-anxiety",
-      "date": "2026-10-19T12:25:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Pope Leo returns to the Vatican 4 days after lung cancer surgery",
-      "link": "https://cruxnow.com/vatican/2026/10/pope-leo-returns-to-the-vatican-4-days-after-lung-cancer-surgery/",
-      "date": "2026-10-19T10:32:52Z",
-      "source": "Crux — Catholic News",
-      "cat": "catholic"
     },
     {
       "title": "The Jokes Animating Black Christian Comedy",
@@ -580,22 +664,8 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Editorial: Immigration, war, democracy should be front of mind for Catholic voters",
-      "link": "https://www.ncronline.org/opinion/editorial/editorial-immigration-war-democracy-should-be-front-mind-catholic-voters",
-      "date": "2026-10-19T08:00:00Z",
-      "source": "National Catholic Reporter",
-      "cat": "catholic"
-    },
-    {
       "title": "Cancer may change 'how' but not 'what' of Leo's papacy, pope's friend says",
       "link": "https://www.ncronline.org/vatican/vatican-news/cancer-may-change-how-not-what-leos-papacy-popes-friend-says",
-      "date": "2026-10-19T08:00:00Z",
-      "source": "National Catholic Reporter",
-      "cat": "catholic"
-    },
-    {
-      "title": "Podcast: Dorothy Day and the call to live the Sermon on the Mount",
-      "link": "https://www.ncronline.org/opinion/podcast-dorothy-day-and-call-live-sermon-mount",
       "date": "2026-10-19T08:00:00Z",
       "source": "National Catholic Reporter",
       "cat": "catholic"
@@ -622,32 +692,11 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Mangaluru Police arrest absconding priest for sexually abusing minor boy",
-      "link": "https://www.bishop-accountability.org/2026/10/mangaluru-police-arrest-absconding-priest/",
-      "date": "2026-10-18T12:55:16Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
-      "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
-      "link": "https://www.bishop-accountability.org/2026/10/uncertainty-over-popes-health-fuels-familiar-debate/",
-      "date": "2026-10-18T12:52:15Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
-      "title": "Pope Leo health update: Pope Leo XIV returns to Vatican, doctor shares major verdict on trip to Uruguay, Peru, Argentina",
-      "link": "https://www.bishop-accountability.org/2026/10/pope-leo-health-update/",
-      "date": "2026-10-18T12:49:12Z",
-      "source": "Abuse Tracker (Bishop Accountability)",
-      "cat": "accountability"
-    },
-    {
-      "title": "These Military Leaders Are Protecting Democracy with Admiral Michael E. Smith",
-      "link": "https://religionnews.com/2026/10/17/these-military-leaders-are-protecting-democracy-with-admiral-michael-e-smith/",
-      "date": "2026-10-17T22:08:20Z",
-      "source": "Religion News Service",
-      "cat": "mainstreamreligion"
+      "title": "Pope Leo tells faithful in St. Peter’s Square he will gradually resume duties after cancer surgery",
+      "link": "https://cruxnow.com/vatican/2026/10/pope-leo-tells-faithful-in-st-peters-square-he-will-gradually-resume-duties-after-cancer-surgery/",
+      "date": "2026-10-18T11:01:00Z",
+      "source": "Crux — Catholic News",
+      "cat": "catholic"
     },
     {
       "title": "Christianity Today pulls, then restores, Elisabeth Elliot sexuality article",
@@ -667,6 +716,13 @@
       "title": "An American pope brings American-style governance to the Vatican, even in a health crisis",
       "link": "https://cruxnow.com/vatican/2026/10/an-american-pope-brings-american-style-governance-to-the-vatican-even-in-a-health-crisis/",
       "date": "2026-10-17T10:58:55Z",
+      "source": "Crux — Catholic News",
+      "cat": "catholic"
+    },
+    {
+      "title": "Pope Leo returns to the Vatican 4 days after lung cancer surgery",
+      "link": "https://cruxnow.com/vatican/2026/10/pope-leo-returns-to-the-vatican-4-days-after-lung-cancer-surgery/",
+      "date": "2026-10-17T10:32:52Z",
       "source": "Crux — Catholic News",
       "cat": "catholic"
     },
@@ -755,27 +811,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "From March Madness miracles to a season opener in Rome: The story of Catholic college hoops",
-      "link": "https://cruxnow.com/church-in-the-usa/2026/10/from-march-madness-miracles-to-a-season-opener-in-rome-the-story-of-catholic-college-hoops/",
-      "date": "2026-10-16T09:47:16Z",
-      "source": "Crux — Catholic News",
-      "cat": "catholic"
-    },
-    {
-      "title": "Israeli settlers attack olive harvest of Christian villagers in the West Bank",
-      "link": "https://cruxnow.com/church-in-the-middle-east/2026/10/israeli-settlers-attack-olive-harvest-of-christian-villagers-in-the-west-bank/",
-      "date": "2026-10-16T09:18:09Z",
-      "source": "Crux — Catholic News",
-      "cat": "catholic"
-    },
-    {
-      "title": "Catholic support for Trump is declining, but is it just part of a national trend?",
-      "link": "https://cruxnow.com/church-in-the-usa/2026/10/catholic-support-for-trump-is-declining-but-is-it-just-part-of-a-national-trend/",
-      "date": "2026-10-16T08:52:10Z",
-      "source": "Crux — Catholic News",
-      "cat": "catholic"
-    },
-    {
       "title": "Exclusive Brethren head denies knowing church members were volunteering for Liberal party during 2025 election",
       "link": "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb",
       "date": "2026-10-16T06:58:24Z",
@@ -788,20 +823,6 @@
       "date": "2026-10-16T04:59:40Z",
       "source": "MinistryWatch",
       "cat": "accountability"
-    },
-    {
-      "title": "Country diary: A three-day perambulation around my own parish | Simon Lockett",
-      "link": "https://www.theguardian.com/environment/2026/oct/16/country-diary-a-three-day-perambulation-around-my-own-parish",
-      "date": "2026-10-16T04:30:50Z",
-      "source": "The Guardian — Religion",
-      "cat": "mainstreamreligion"
-    },
-    {
-      "title": "Pope Leo lung cancer surgery: what kind of operation did he have and what happens next?",
-      "link": "https://www.theguardian.com/world/2026/oct/16/pope-leo-lung-cancer-surgery-lobectomy",
-      "date": "2026-10-16T04:00:51Z",
-      "source": "The Guardian — Religion",
-      "cat": "mainstreamreligion"
     },
     {
       "title": "This Is How Montell Jordan Does It Now",
@@ -844,27 +865,6 @@
       "date": "2026-10-15T21:35:44Z",
       "source": "The Roys Report",
       "cat": "accountability"
-    },
-    {
-      "title": "R. Scott Pace Installed as Southeastern Seminary’s New President Third new SBC seminary leader this year signals generational transition underway.",
-      "link": "https://ministrywatch.com/scott-pace-installed-as-southeastern-seminarys-new-president/",
-      "date": "2026-10-15T19:38:16Z",
-      "source": "MinistryWatch",
-      "cat": "accountability"
-    },
-    {
-      "title": "Ministry Spotlight: Grove City College Strong rankings and fundraising gains come alongside a D grade for financial transparency.",
-      "link": "https://ministrywatch.com/ministry-spotlight-grove-city-college/",
-      "date": "2026-10-15T18:23:58Z",
-      "source": "MinistryWatch",
-      "cat": "accountability"
-    },
-    {
-      "title": "What We Know—and Cannot Know—About Elisabeth Elliot’s Sexuality",
-      "link": "https://www.christianitytoday.com/2026/10/elisabeth-elliots-sexuality-virginia-mollenkott-william-stell-lucy-austen/",
-      "date": "2026-10-15T10:00:00Z",
-      "source": "Christianity Today",
-      "cat": "evangelical"
     }
   ]
 }
