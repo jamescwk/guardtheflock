@@ -1,31 +1,136 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T23:12:37.376756Z",
+  "updatedAt": "2026-10-21T04:55:11.398474Z",
   "sourcesUpdated": 19,
   "sources": [
+    "Christianity Today",
     "Spiritual Sounding Board",
     "Religion News Service",
-    "Christianity Today",
     "Baptist News Global",
     "The Wartburg Watch",
     "Christian Post",
     "Christian Headlines",
-    "The Guardian — Religion",
     "Crux — Catholic News",
-    "The Roys Report",
+    "The Guardian — Religion",
     "National Catholic Reporter",
+    "Surviving Church",
+    "The Roys Report",
     "Channel NewsAsia",
     "Straits Times",
     "Charisma News",
-    "Abuse Tracker (Bishop Accountability)",
     "MinistryWatch",
-    "Relevant Magazine",
+    "Abuse Tracker (Bishop Accountability)",
     "ECA Global",
-    "Surviving Church"
+    "Relevant Magazine"
   ],
   "sourceCount": 24,
   "itemCount": 120,
   "items": [
+    {
+      "title": "Ep. 656: Museum of the Bible’s New Chapter with Carlos Campo",
+      "link": "https://ministrywatch.com/ep-656-museum-of-the-bibles-new-chapter-with-carlos-campo/",
+      "date": "2026-10-21T04:52:35Z",
+      "source": "MinistryWatch",
+      "cat": "accountability"
+    },
+    {
+      "title": "Prominent members weigh in on HPUMC vote",
+      "link": "https://baptistnews.com/article/prominent-members-weigh-in-on-hpumc-vote/",
+      "date": "2026-10-21T04:44:03Z",
+      "source": "Baptist News Global",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Bowler Shami not giving up hope of India return",
+      "link": "https://www.channelnewsasia.com/sport/bowler-shami-not-giving-up-hope-india-return-6477871",
+      "date": "2026-10-21T04:30:31Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "More than S$45 million set aside to help Singapore manufacturers adopt AI",
+      "link": "https://www.channelnewsasia.com/singapore/singapore-manufacturer-ai-adoption-45-million-6477566",
+      "date": "2026-10-21T04:03:51Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Parents jailed over fatal abuse of 8-month-old son",
+      "link": "https://www.straitstimes.com/singapore/courts-crime/parents-jailed-over-fatal-abuse-of-8-month-old-son",
+      "date": "2026-10-21T03:48:49Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Twice’s Jihyo officially leaves JYP Entertainment after 21 years",
+      "link": "https://www.channelnewsasia.com/entertainment/twice-jihyo-leaves-jyp-entertainment-6477701",
+      "date": "2026-10-21T03:39:59Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
+      "link": "https://www.channelnewsasia.com/business/state-bank-india-reports-cyberattack-involving-nearly-3900-customer-records-6477746",
+      "date": "2026-10-21T03:36:36Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Heading to Taiwan? You can now pay with DBS PayLah!",
+      "link": "https://www.straitstimes.com/singapore/heading-to-taiwan-you-can-now-pay-with-dbs-paylah",
+      "date": "2026-10-21T03:35:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "China defends DeepSeek after US ban of its AI from government systems",
+      "link": "https://www.channelnewsasia.com/east-asia/china-deepseek-us-ban-ai-government-systems-6477686",
+      "date": "2026-10-21T03:19:14Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Indonesian anger builds over wildfires, toxic haze",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-protest-haze-wildfires-toxic-smoke-6477656",
+      "date": "2026-10-21T03:13:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Voice actor Hiroshi Tsuchida, star of Attack On Titan and Kakuranger, dies at age 54",
+      "link": "https://www.channelnewsasia.com/entertainment/hiroshi-tsuchida-death-voice-actor-attack-titan-kakuranger-6477491",
+      "date": "2026-10-21T02:59:59Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Man in court over alleged 'targeted' attack on Australian lawmaker",
+      "link": "https://www.channelnewsasia.com/world/australia-brendan-nugent-suspect-court-helen-haines-car-attack-6477651",
+      "date": "2026-10-21T02:56:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Woman, 19, assisting police investigations after car crashes into divider in Tampines",
+      "link": "https://www.straitstimes.com/singapore/woman-19-assisting-police-investigations-after-car-crashes-into-divider-in-tampines",
+      "date": "2026-10-21T02:15:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Controversy at Ouachita as faculty required to sign doc on sexuality and gender",
+      "link": "https://baptistnews.com/article/controversy-at-ouachita-as-faculty-required-to-sign-doc-on-sexuality-and-gender/",
+      "date": "2026-10-21T02:12:48Z",
+      "source": "Baptist News Global",
+      "cat": "evangelical"
+    },
+    {
+      "title": "American Jews’ toxic family feud over Israel",
+      "link": "https://religionnews.com/2026/10/20/american-jews-toxic-family-feud-over-israel/",
+      "date": "2026-10-20T23:42:14Z",
+      "source": "Religion News Service",
+      "cat": "mainstreamreligion"
+    },
     {
       "title": "ANALYSIS: Hillsong Pastor Carl Lentz’s new book should have been titled ‘Overcoming Responsibility’",
       "link": "https://roysreport.com/analysis-hillsong-pastor-carl-lentzs-new-book-should-have-been-titled-overcoming-responsibility/",
@@ -34,38 +139,10 @@
       "cat": "accountability"
     },
     {
-      "title": "AI data center projects boost US warehouse demand and rents, real estate company JLL says",
-      "link": "https://www.channelnewsasia.com/business/ai-data-center-projects-boost-us-warehouse-demand-and-rents-real-estate-company-jll-says-6476956",
-      "date": "2026-10-20T22:52:50Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Ngumoha comes of age on breathless Anfield night",
-      "link": "https://www.channelnewsasia.com/sport/ngumoha-comes-age-breathless-anfield-night-6476946",
-      "date": "2026-10-20T22:47:42Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Louis Vuitton and Hermes among luxury retailers looted in French riots",
-      "link": "https://www.channelnewsasia.com/obsessions/france-riots-louis-vuitton-hermes-luxury-stores-looted-6476916",
-      "date": "2026-10-20T22:46:27Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Haze in Singapore: Air quality lies between moderate and unhealthy bands overnight",
+      "title": "Haze in Singapore: Air quality lies between moderate and unhealthy bands",
       "link": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-lies-between-moderate-and-unhealthy-bands-overnight",
       "date": "2026-10-20T22:09:17Z",
       "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll",
-      "link": "https://www.channelnewsasia.com/business/boj-raise-rates-150-in-december-sticking-quarterly-pace-reuters-poll-6476911",
-      "date": "2026-10-20T22:06:16Z",
-      "source": "Channel NewsAsia",
       "cat": "asia"
     },
     {
@@ -73,34 +150,6 @@
       "link": "https://www.straitstimes.com/singapore/in-poly-or-ite-log-in-to-your-st-student-account-to-earn-vouchers",
       "date": "2026-10-20T22:06:00Z",
       "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Primary 1 registration changes could cut Phase 2A places at some popular schools by a fifth or more",
-      "link": "https://www.channelnewsasia.com/singapore/p1-primary-schools-registration-phase-2a-alumni-6475436",
-      "date": "2026-10-20T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Singapore haze: Is your old air purifier still effective, and how much does it cost to run one?",
-      "link": "https://www.channelnewsasia.com/singapore/air-purifier-haze-costs-hepa-filter-6475021",
-      "date": "2026-10-20T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Commentary: Do Botox and fillers belong in a self-care routine?",
-      "link": "https://www.channelnewsasia.com/commentary/botox-dermal-filler-injectable-beauty-routine-6474861",
-      "date": "2026-10-20T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Deadline for change: How APEC is accelerating Shenzhen's makeover - and what could last",
-      "link": "https://www.channelnewsasia.com/east-asia/shenzhen-apec-summit-payment-transport-services-safety-6452521",
-      "date": "2026-10-20T22:00:00Z",
-      "source": "Channel NewsAsia",
       "cat": "asia"
     },
     {
@@ -172,13 +221,6 @@
       "date": "2026-10-20T19:28:26Z",
       "source": "Charisma News",
       "cat": "evangelical"
-    },
-    {
-      "title": "American Jews’ toxic family feud over Israel",
-      "link": "https://religionnews.com/2026/10/20/american-jews-toxic-family-feud-over-israel/",
-      "date": "2026-10-20T18:47:56Z",
-      "source": "Religion News Service",
-      "cat": "mainstreamreligion"
     },
     {
       "title": "What to know about Kenya’s starvation cult after its leader is convicted on 191 murder charges",
@@ -370,13 +412,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
-      "link": "https://baptistnews.com/article/a-bitter-michigan-senate-race-rattles-jewish-and-muslim-voters-already-on-edge-over-the-war-in-gaza/",
-      "date": "2026-10-20T15:03:51Z",
-      "source": "Baptist News Global",
-      "cat": "evangelical"
-    },
-    {
       "title": "Dallas faith groups, volunteer lawyers amplify legal support for detained immigrants",
       "link": "https://www.ncronline.org/news/dallas-faith-groups-volunteer-lawyers-amplify-legal-support-detained-immigrants",
       "date": "2026-10-20T14:57:49Z",
@@ -440,13 +475,6 @@
       "cat": "accountability"
     },
     {
-      "title": "Employers should adjust outdoor work activities based on hourly PM2.5 readings: MOM",
-      "link": "https://www.straitstimes.com/singapore/employers-should-adjust-outdoor-work-activities-based-on-hourly-pm2-5-readings-mom",
-      "date": "2026-10-20T14:01:31Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
       "title": "Washington Pastor Charged in $13M Investment Scheme Prosecutors say Cristian Popescu targeted parishioners' retirement and children's college savings accounts.",
       "link": "https://ministrywatch.com/washington-pastor-charged-in-13m-investment-scheme/",
       "date": "2026-10-20T13:38:50Z",
@@ -487,20 +515,6 @@
       "date": "2026-10-20T13:12:07Z",
       "source": "Abuse Tracker (Bishop Accountability)",
       "cat": "accountability"
-    },
-    {
-      "title": "Singapore, Sweden to boost cooperation in clean energy transition, public policy",
-      "link": "https://www.straitstimes.com/singapore/politics/singapore-sweden-to-boost-cooperation-in-clean-energy-transition-public-policy",
-      "date": "2026-10-20T13:08:29Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Teen assisting in investigations after attempt to smuggle controlled weapons, ammunition into S’pore",
-      "link": "https://www.straitstimes.com/singapore/teen-assisting-in-investigations-after-attempt-to-smuggle-controlled-weapons-ammunition-into-spore",
-      "date": "2026-10-20T13:07:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
     },
     {
       "title": "Bishop urges Church to make abuse prevention a lasting culture",
@@ -606,13 +620,6 @@
       "date": "2026-10-20T06:28:57Z",
       "source": "The Guardian — Religion",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "For the love of God, stop making transfolk the butt of your jokes",
-      "link": "https://baptistnews.com/article/for-the-love-of-god-stop-making-transfolk-the-butt-of-your-jokes/",
-      "date": "2026-10-20T06:07:05Z",
-      "source": "Baptist News Global",
-      "cat": "evangelical"
     },
     {
       "title": "Excel College Faces Flood of Complaints UNC System requests investigation of Christian college near Black Mountain.",
@@ -856,13 +863,6 @@
       "title": "This Is How Montell Jordan Does It Now",
       "link": "https://relevantmagazine.com/magazine/this-is-how-they-do-it-now-montell-and-kristin-jordan-on-faith-marriage-and-doing-it-afraid/",
       "date": "2026-10-16T02:48:15Z",
-      "source": "Relevant Magazine",
-      "cat": "evangelical"
-    },
-    {
-      "title": "16 Christians Are Killed Every Day in Nigeria, New Report Says",
-      "link": "https://relevantmagazine.com/justice/16-christians-are-killed-every-day-in-nigeria-new-report-says/",
-      "date": "2026-10-16T02:37:32Z",
       "source": "Relevant Magazine",
       "cat": "evangelical"
     }
