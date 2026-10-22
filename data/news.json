@@ -1,32 +1,180 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T23:24:53.375500Z",
-  "sourcesUpdated": 18,
+  "updatedAt": "2026-10-22T04:54:53.275788Z",
+  "sourcesUpdated": 19,
   "sources": [
     "Spiritual Sounding Board",
     "Religion News Service",
     "Christianity Today",
     "Baptist News Global",
-    "Abuse Tracker (Bishop Accountability)",
     "The Wartburg Watch",
+    "Christian Headlines",
     "The Guardian — Religion",
     "Crux — Catholic News",
-    "Christian Headlines",
-    "Christian Post",
     "National Catholic Reporter",
-    "Surviving Church",
+    "Christian Post",
     "Channel NewsAsia",
     "Straits Times",
     "The Roys Report",
     "Charisma News",
+    "Abuse Tracker (Bishop Accountability)",
+    "Surviving Church",
     "MinistryWatch",
-    "Relevant Magazine"
+    "Relevant Magazine",
+    "ECA Global"
   ],
   "sourceCount": 24,
   "itemCount": 120,
   "items": [
     {
-      "title": "Assemblies of God revokes credentials of Indiana pastor accused of booking erotic massages on ministry trips",
+      "title": "South Korea's celebrity shark back in canal, prompting new rescue bid",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-shark-canal-new-rescue-bid-bukhangi-6481361",
+      "date": "2026-10-22T04:38:50Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games",
+      "link": "https://www.channelnewsasia.com/east-asia/asian-para-games-wrong-anthems-played-6481461",
+      "date": "2026-10-22T04:38:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Singapore to streamline community mental health services under new HealthierMind SG network",
+      "link": "https://www.channelnewsasia.com/singapore/mental-health-services-healthiermind-sg-youth-6481011",
+      "date": "2026-10-22T04:36:05Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Peter Thiel Has Spent Three Years Lecturing on the Antichrist. A Fordham Scholar Broke Down What He’s Saying",
+      "link": "https://relevantmagazine.com/current/nation/peter-thiel-has-spent-three-years-lecturing-on-the-antichrist-a-fordham-scholar-broke-down-what-hes-saying/",
+      "date": "2026-10-22T04:30:22Z",
+      "source": "Relevant Magazine",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Strengthening schools as key places for young people to seek help, build mental health resilience",
+      "link": "https://www.straitstimes.com/singapore/health/strengthening-schools-as-key-places-for-young-people-to-seek-help-build-mental-health-resilience",
+      "date": "2026-10-22T04:30:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Saka injury doesn't look good, says Arsenal manager Arteta",
+      "link": "https://www.channelnewsasia.com/sport/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-6481451",
+      "date": "2026-10-22T04:28:20Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Singapore, Sweden can learn from each other on social cohesion, competitiveness: President Tharman",
+      "link": "https://www.straitstimes.com/singapore/politics/singapore-sweden-can-learn-from-each-other-on-social-cohesion-competitiveness-president-tharman",
+      "date": "2026-10-22T04:22:30Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+      "link": "https://www.channelnewsasia.com/business/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-6481421",
+      "date": "2026-10-22T04:10:59Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+      "link": "https://www.channelnewsasia.com/world/us-diplomats-depart-saudi-arabia-houthi-strikes-6480341",
+      "date": "2026-10-22T04:10:51Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "France riots: Why they’re more dangerous than BLM’s 2020",
+      "link": "https://www.christianpost.com/voices/france-riots-why-theyre-more-dangerous-than-blms-2020.html",
+      "date": "2026-10-22T04:06:15Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Europe car sales rise 10% in September as EV surge offsets combustion slump",
+      "link": "https://www.channelnewsasia.com/business/europe-car-sales-rise-10-in-september-ev-surge-offsets-combustion-slump-6481391",
+      "date": "2026-10-22T04:06:06Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "7 reasons Talarico is wrong that the Bible is silent on abortion",
+      "link": "https://www.christianpost.com/voices/7-reasons-talarico-is-wrong-that-the-bible-is-silent-on-abortion.html",
+      "date": "2026-10-22T04:04:16Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Kim Jong Un's sister issues new warning to South Korea, says border loudspeakers to be ready within days",
+      "link": "https://www.channelnewsasia.com/east-asia/north-korea-warns-dmz-border-loudspeakers-ready-6480461",
+      "date": "2026-10-22T04:03:00Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Is doubt a sign Christian teens are drifting?",
+      "link": "https://www.christianpost.com/voices/is-doubt-a-sign-christian-teens-are-drifting.html",
+      "date": "2026-10-22T04:02:55Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Democrat senator sparks outrage for threatening 'lawfare' against Trump staffers: 'Bolshevik-style tactics'",
+      "link": "https://www.christianpost.com/news/democrat-senator-sparks-outrage-for-threatening-trump-staffers.html",
+      "date": "2026-10-22T04:00:18Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Airbnb Says Hosts Can No Longer Make You Do Chores Before Checkout",
+      "link": "https://relevantmagazine.com/current/buzzworthy/airbnb-says-hosts-can-no-longer-make-you-do-chores-before-checkout/",
+      "date": "2026-10-22T03:53:06Z",
+      "source": "Relevant Magazine",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Current and past senior ministers urge HPUMC to vote for disaffiliation",
+      "link": "https://baptistnews.com/article/current-and-past-senior-ministers-urge-hpumc-to-vote-for-disaffiliation/",
+      "date": "2026-10-22T03:35:32Z",
+      "source": "Baptist News Global",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Andy Stanley Stepping Down as Senior Pastor of North Point After 31 years, Stanley says he is retiring from his job but not from ministry.",
+      "link": "https://ministrywatch.com/andy-stanley-stepping-down-as-senior-pastor-of-north-point/",
+      "date": "2026-10-22T01:51:26Z",
+      "source": "MinistryWatch",
+      "cat": "accountability"
+    },
+    {
+      "title": "Part 2: The Supposing ‘Outing’ of Elisabeth Elliot by Christianity Today Deserves a Serious Apology",
+      "link": "https://thewartburgwatch.com/2026/10/21/part-2-the-supposing-outing-of-elisabeth-elliot-by-christianity-today-deserves-a-serious-apology/",
+      "date": "2026-10-22T01:33:51Z",
+      "source": "The Wartburg Watch",
+      "cat": "accountability"
+    },
+    {
+      "title": "Christian Universities Offer Education to Students With Intellectual Disabilities Specialized programs emphasize life skills, job readiness, and personal growth.",
+      "link": "https://ministrywatch.com/christian-universities-offer-education-to-students-with-intellectual-disabilities/",
+      "date": "2026-10-22T00:47:10Z",
+      "source": "MinistryWatch",
+      "cat": "accountability"
+    },
+    {
+      "title": "Ep. 657: Medication Abortions, Christianity Today, Narnia, Museum of the Bible",
+      "link": "https://ministrywatch.com/ep-657-medication-abortions-christianity-today-narnia-museum-of-the-bible/",
+      "date": "2026-10-21T23:41:30Z",
+      "source": "MinistryWatch",
+      "cat": "accountability"
+    },
+    {
+      "title": "Assemblies of God revokes credentials of pastor David Wigington over erotic massage allegations",
       "link": "https://roysreport.com/assemblies-of-god-revokes-credentials-of-indiana-pastor-accused-of-booking-erotic-massages-on-ministry-trips/",
       "date": "2026-10-21T23:23:42Z",
       "source": "The Roys Report",
@@ -40,7 +188,7 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Haze in Singapore: Air quality improves overnight with ‘normal’ PM2.5 readings across the island",
+      "title": "Haze in Singapore: Air quality improves with ‘normal’ PM2.5 readings across the island",
       "link": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-overnight-with-normal-pm2-5-readings-across-the-island",
       "date": "2026-10-21T22:05:14Z",
       "source": "Straits Times",
@@ -52,62 +200,6 @@
       "date": "2026-10-21T22:03:43Z",
       "source": "Religion News Service",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5%",
-      "link": "https://www.channelnewsasia.com/business/stocks-rise-ai-led-earnings-frances-10-year-bond-yield-hits-5-6477551",
-      "date": "2026-10-21T22:02:26Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Always tired? To reclaim energy, 6 Singaporeans try these small biohacks that could help you too",
-      "link": "https://www.channelnewsasia.com/cna-insider/insider/restless-busy-tired-singaporeans-biohacks-better-health-reclaim-energy-6478221",
-      "date": "2026-10-21T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Retrenched in their 50s: The long road back to work for older workers",
-      "link": "https://www.channelnewsasia.com/singapore/retrenched-workers-50s-older-work-find-jobs-6477801",
-      "date": "2026-10-21T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "About 40 cat fosterers approved under new pilot scheme as rescuers weigh benefits, restrictions",
-      "link": "https://www.channelnewsasia.com/singapore/avs-cat-fosterer-new-pilot-scheme-application-benefit-restriction-6477451",
-      "date": "2026-10-21T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Commentary: Troubled AirAsia needs some government indulgence, not a blank cheque",
-      "link": "https://www.channelnewsasia.com/commentary/malaysia-airasia-trouble-help-tony-fernandes-6474336",
-      "date": "2026-10-21T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "When banter backfires: What a backlash against an Indonesian grooming brand in Malaysia signals",
-      "link": "https://www.channelnewsasia.com/asia/kahf-boycott-malaysia-indonesia-consumers-6461156",
-      "date": "2026-10-21T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Commentary: Rogue Chinese AI really wants to go to the zoo. That’s a problem",
-      "link": "https://www.channelnewsasia.com/commentary/rogue-chinese-ai-agent-chengdu-zoo-tencent-6478346",
-      "date": "2026-10-21T21:59:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Commentary: 'Made in Europe' label is wearing thin while Asia does the stitching",
-      "link": "https://www.channelnewsasia.com/commentary/made-in-europe-origin-rules-fashion-luxury-6478506",
-      "date": "2026-10-21T21:58:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
     },
     {
       "title": "4 things to know about mysterious transgender student mailers in Texas",
@@ -236,13 +328,6 @@
       "cat": "asia"
     },
     {
-      "title": "Danica McKellar shares how Candace Cameron Bure led her to faith: ‘It’s been Jesus this whole time’",
-      "link": "https://www.christianpost.com/news/danica-mckellar-shares-how-candace-cameron-bure-led-her-to-jesus.html",
-      "date": "2026-10-21T18:01:11Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
       "title": "Red Worship Sees Deep Hunger for God Among Fans on Tour: 'It's Been Incredible'",
       "link": "https://www.crosswalk.com/headlines/contributors/michael-foust/red-worship-sees-deep-hunger-for-god-among-fans-on-tour-its-been-incredible.html",
       "date": "2026-10-21T18:00:00Z",
@@ -261,20 +346,6 @@
       "link": "https://www.crosswalk.com/headlines/contributors/guest-commentary/egyptian-farmer-makes-stunning-discovery-of-ancient-statue-linked-to-biblical-pharaoh.html",
       "date": "2026-10-21T17:45:00Z",
       "source": "Christian Headlines",
-      "cat": "evangelical"
-    },
-    {
-      "title": "Danica McKellar shares how Candace Cameron Bure introduced her to Jesus",
-      "link": "https://www.christianpost.com/video/danica-mckellar-says-candace-cameron-bure-introduced-her-to-jesus.html",
-      "date": "2026-10-21T17:43:53Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
-      "title": "'Good preaching is not enough': Pastor Marco Garcia urges churches to embrace a 'discipleship culture'",
-      "link": "https://www.christianpost.com/news/megachurch-pastor-wants-churches-to-embrace-discipleship-culture.html",
-      "date": "2026-10-21T17:14:00Z",
-      "source": "Christian Post",
       "cat": "evangelical"
     },
     {
@@ -318,13 +389,6 @@
       "date": "2026-10-21T16:29:49Z",
       "source": "National Catholic Reporter",
       "cat": "catholic"
-    },
-    {
-      "title": "‘A gift of mercy’: Russia releases 74-year-old US citizen charged with aiding Ukraine",
-      "link": "https://www.christianpost.com/news/russia-releases-74-year-old-american-charged-with-aiding-ukraine.html",
-      "date": "2026-10-21T16:25:00Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
     },
     {
       "title": "Former Buffalo pastor sentenced to 8 years for child sexual abuse",
@@ -390,13 +454,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "As Texas Gov. Abbott targets Muslim groups, his PAC receives millions from Muslim oil exec",
-      "link": "https://baptistnews.com/article/as-texas-gov-abbott-targets-muslim-groups-his-pac-receives-millions-from-muslim-oil-exec/",
-      "date": "2026-10-21T15:00:34Z",
-      "source": "Baptist News Global",
-      "cat": "evangelical"
-    },
-    {
       "title": "New film questions Eleven22 Church’s forgiven $1.73M PPP loan, retreat property and pastor’s lifestyle",
       "link": "https://roysreport.com/new-film-questions-eleven22-churchs-forgiven-1-73m-ppp-loan-retreat-property-and-pastors-lifestyle/",
       "date": "2026-10-21T14:58:00Z",
@@ -416,6 +473,13 @@
       "date": "2026-10-21T14:47:52Z",
       "source": "Christianity Today",
       "cat": "evangelical"
+    },
+    {
+      "title": "The tragically short life of Trevor Neo",
+      "link": "https://www.straitstimes.com/singapore/the-tragically-short-life-of-trevor-neo",
+      "date": "2026-10-21T13:45:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
     },
     {
       "title": "Survivors meet privately with AG, after release of clergy abuse investigation",
@@ -516,13 +580,6 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Why is it difficult to identify companies linked to fires? How can S’pore’s haze law be strengthened?",
-      "link": "https://www.straitstimes.com/singapore/environment/why-is-it-difficult-to-identify-companies-linked-to-fires-how-can-spores-haze-law-be-strengthened",
-      "date": "2026-10-21T12:00:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
       "title": "Celebrity exorcist priest to take one-year ‘media fast’ after meeting with Denver archbishop",
       "link": "https://cruxnow.com/church-in-the-usa/2026/10/celebrity-exorcist-priest-to-take-one-year-media-fast-after-meeting-with-denver-archbishop/",
       "date": "2026-10-21T11:01:14Z",
@@ -535,20 +592,6 @@
       "date": "2026-10-21T11:00:56Z",
       "source": "Religion News Service",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "App to help diners with visual impairment at hawker centres among ideas at inaugural challenge",
-      "link": "https://www.straitstimes.com/tech/app-to-help-diners-with-visual-impairment-at-hawker-centres-among-ideas-showcased-at-inaugural",
-      "date": "2026-10-21T10:45:26Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "World needs ‘bridge builders’ to make the transition to new multipolar order: President Tharman",
-      "link": "https://www.straitstimes.com/singapore/politics/world-needs-bridge-builders-to-make-the-transition-to-new-multi-polar-order-president-tharman",
-      "date": "2026-10-21T10:38:02Z",
-      "source": "Straits Times",
-      "cat": "asia"
     },
     {
       "title": "‘What are you implying?’: El-Sayed confronts critics head-on as attacks ramp up",
@@ -754,20 +797,6 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "Excel College Faces Flood of Complaints UNC System requests investigation of Christian college near Black Mountain.",
-      "link": "https://ministrywatch.com/excel-college-faces-flood-of-complaints/",
-      "date": "2026-10-20T02:08:22Z",
-      "source": "MinistryWatch",
-      "cat": "accountability"
-    },
-    {
-      "title": "Beyond the Food Box Helping families move from emergency meals toward reliable food, income, and education.",
-      "link": "https://ministrywatch.com/beyond-the-food-box/",
-      "date": "2026-10-20T01:53:32Z",
-      "source": "MinistryWatch",
-      "cat": "accountability"
-    },
-    {
       "title": "Part One of On Elisabeth Elliot and Christianity Today: Uneasiness Surrounds an Evangelical Cornerstone.",
       "link": "https://thewartburgwatch.com/2026/10/19/part-one-of-on-elisabeth-elliot-and-christianity-today-uneasiness-surrounds-an-evangelical-cornerstone/",
       "date": "2026-10-20T01:21:59Z",
@@ -834,34 +863,6 @@
       "title": "What Does Gen Z Actually Believe? Even They’re Not Sure",
       "link": "https://relevantmagazine.com/magazine/what-does-gen-z-actually-believe-even-theyre-not-sure/",
       "date": "2026-10-19T04:39:41Z",
-      "source": "Relevant Magazine",
-      "cat": "evangelical"
-    },
-    {
-      "title": "Whither the Evangelical Press Association? The recent vote to change the group’s name was a mistake, but it can be undone.",
-      "link": "https://ministrywatch.com/whither-the-evangelical-press-association/",
-      "date": "2026-10-18T22:08:03Z",
-      "source": "MinistryWatch",
-      "cat": "accountability"
-    },
-    {
-      "title": "Pope Leo tells faithful in St. Peter’s Square he will gradually resume duties after cancer surgery",
-      "link": "https://cruxnow.com/vatican/2026/10/pope-leo-tells-faithful-in-st-peters-square-he-will-gradually-resume-duties-after-cancer-surgery/",
-      "date": "2026-10-18T11:01:00Z",
-      "source": "Crux — Catholic News",
-      "cat": "catholic"
-    },
-    {
-      "title": "Jennifer’s Story: How an EPC Judicial Comission Allegedly Claimed That It Would Be Improper to Discipline a Pastor Who Kept Asking a Woman Congregant to Dance for Him.",
-      "link": "https://thewartburgwatch.com/2026/10/16/jennifers-story-how-an-epc-judicial-comission-allegedly-claimed-thaat-it-would-be-improper-to-discipline-a-pastor-who-kept-asking-a-woman-congregant-to-dance-for-him/",
-      "date": "2026-10-17T00:38:45Z",
-      "source": "The Wartburg Watch",
-      "cat": "accountability"
-    },
-    {
-      "title": "Jamie MacDonald Had No Plan for Any of This",
-      "link": "https://relevantmagazine.com/culture/music/jamie-macdonald-had-no-plan-for-any-of-this/",
-      "date": "2026-10-16T15:58:56Z",
       "source": "Relevant Magazine",
       "cat": "evangelical"
     }
