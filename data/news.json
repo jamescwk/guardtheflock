@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T23:11:34.334827Z",
+  "updatedAt": "2026-10-24T04:42:07.936115Z",
   "sourcesUpdated": 19,
   "sources": [
-    "Religion News Service",
     "Spiritual Sounding Board",
+    "Religion News Service",
+    "Abuse Tracker (Bishop Accountability)",
     "Christianity Today",
     "Baptist News Global",
     "The Wartburg Watch",
     "Christian Post",
     "Christian Headlines",
     "Crux — Catholic News",
-    "The Guardian — Religion",
     "National Catholic Reporter",
-    "Surviving Church",
     "Channel NewsAsia",
+    "The Guardian — Religion",
     "The Roys Report",
+    "Surviving Church",
     "Straits Times",
     "Charisma News",
     "ECA Global",
-    "Abuse Tracker (Bishop Accountability)",
     "MinistryWatch",
     "Relevant Magazine"
   ],
@@ -27,17 +27,122 @@
   "itemCount": 120,
   "items": [
     {
-      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-      "link": "https://www.channelnewsasia.com/business/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-6488181",
-      "date": "2026-10-23T23:06:25Z",
+      "title": "Nudification, murder- and gambling-themed apps flagged in IMDA’s first app store audit",
+      "link": "https://www.straitstimes.com/tech/nudification-murder-and-gambling-themed-apps-flagged-in-imdas-first-app-store-audit",
+      "date": "2026-10-24T04:40:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "One child offended, but the next doesn’t have to",
+      "link": "https://www.straitstimes.com/singapore/one-child-offended-but-the-next-doesnt-have-to",
+      "date": "2026-10-24T04:00:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
+      "link": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446",
+      "date": "2026-10-24T03:34:00Z",
       "source": "Channel NewsAsia",
       "cat": "asia"
     },
     {
-      "title": "UK government sets out $800 million of AI security funding",
-      "link": "https://www.channelnewsasia.com/business/uk-government-sets-out-800-million-ai-security-funding-6488176",
-      "date": "2026-10-23T23:03:17Z",
+      "title": "John Lennox urges Christians to share their faith with confidence: 'We're all called to be witnesses'",
+      "link": "https://www.christianpost.com/news/john-lennox-urges-christians-to-share-their-faith-with-confidence.html",
+      "date": "2026-10-24T02:41:22Z",
+      "source": "Christian Post",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Visitors mask up, change plans amid the haze; some tour operators see dip in bookings",
+      "link": "https://www.straitstimes.com/singapore/visitors-mask-up-change-plans-amid-the-haze-some-tour-operators-see-dip-in-bookings",
+      "date": "2026-10-24T02:00:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Mosquitoes, cooling vests: Singapore launches exhibition on adapting to climate change",
+      "link": "https://www.straitstimes.com/singapore/environment/mosquitoes-cooling-vests-singapore-launches-exhibition-on-adapting-to-climate-change",
+      "date": "2026-10-24T01:38:05Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "35 clergy and family of clergy appeal for no vote at HPUMC",
+      "link": "https://baptistnews.com/article/35-clergy-and-family-of-clergy-appeal-for-no-vote-at-hpumc/",
+      "date": "2026-10-24T01:32:33Z",
+      "source": "Baptist News Global",
+      "cat": "evangelical"
+    },
+    {
+      "title": "Pentagon designates China-funded Confucius Institutes as US national security threat",
+      "link": "https://www.channelnewsasia.com/east-asia/pentagon-designates-china-funded-confucius-institutes-us-national-security-threat-6488301",
+      "date": "2026-10-24T01:27:00Z",
       "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Marquez shrugs off crash to take pole at wet Australian Grand Prix",
+      "link": "https://www.channelnewsasia.com/sport/marquez-shrugs-crash-take-pole-wet-australian-grand-prix-6488276",
+      "date": "2026-10-24T01:01:45Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "‘No worker should face this alone’: Some 240 foreigners owed up to 2 months’ pay; NTUC, MOM helping",
+      "link": "https://www.straitstimes.com/singapore/no-worker-should-face-this-alone-close-to-240-migrant-workers-owed-2-months-pay-ntuc-mom-assisting",
+      "date": "2026-10-24T01:00:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+      "link": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421",
+      "date": "2026-10-24T00:54:03Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "US could strike Iran this weekend, envoy says",
+      "link": "https://www.channelnewsasia.com/world/iran-war-us-could-strike-soon-6488231",
+      "date": "2026-10-24T00:40:14Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Rare disorder and low muscle tone cannot dampen teen’s swimming passion",
+      "link": "https://www.straitstimes.com/singapore/health/rare-disorder-and-low-muscle-tone-cannot-dampen-teens-swimming-passion",
+      "date": "2026-10-24T00:00:00Z",
+      "source": "Straits Times",
+      "cat": "asia"
+    },
+    {
+      "title": "Sitting all day? This mobility routine can help you loosen up",
+      "link": "https://www.channelnewsasia.com/wellness/mobility-routine-sitting-6456071",
+      "date": "2026-10-23T23:27:38Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Michelin-starred Nae:um's team opens Italian restaurant Osteria Da Su, with pastas from S$22",
+      "link": "https://www.channelnewsasia.com/dining/osteria-da-su-naeum-italian-food-korean-chef-6485231",
+      "date": "2026-10-23T23:26:50Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "They didn’t want to inherit the family business. Now, Tan Ser Seng’s 3rd generation owners are fighting for its traditions",
+      "link": "https://www.channelnewsasia.com/dining/tan-ser-seng-turtle-soup-third-gen-owners-6485146",
+      "date": "2026-10-23T23:25:51Z",
+      "source": "Channel NewsAsia",
+      "cat": "asia"
+    },
+    {
+      "title": "Haze in Singapore: Air quality back in the unhealthy range",
+      "link": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-back-in-the-unhealthy-range",
+      "date": "2026-10-23T23:11:21Z",
+      "source": "Straits Times",
       "cat": "asia"
     },
     {
@@ -62,53 +167,11 @@
       "cat": "evangelical"
     },
     {
-      "title": "Ronaldinho to return to action with Italian club Ravenna",
-      "link": "https://www.channelnewsasia.com/sport/ronaldinho-return-action-italian-club-ravenna-6488156",
-      "date": "2026-10-23T22:35:55Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
-      "link": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-24-6488141",
-      "date": "2026-10-23T22:31:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Print isn’t dead: How a Singapore printer is keeping paper relevant in a digital world",
-      "link": "https://www.channelnewsasia.com/people/allegro-print-singapore-creative-printing-6478201",
-      "date": "2026-10-23T22:14:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Surfing-Reigning champion Picklum takes first win of the season in Portugal tubefest",
-      "link": "https://www.channelnewsasia.com/sport/surfing-reigning-champion-picklum-takes-first-win-season-in-portugal-tubefest-6488131",
-      "date": "2026-10-23T22:07:12Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
       "title": "Inciting Violence”: Critics Condemn Theobro Pastor Joel Webbon for Suggesting Mike Huckabee’s Execution",
       "link": "https://roysreport.com/inciting-violence-critics-condemn-theobro-pastor-joel-webbon-for-suggesting-mike-huckabees-execution/",
       "date": "2026-10-23T22:00:47Z",
       "source": "The Roys Report",
       "cat": "accountability"
-    },
-    {
-      "title": "Indonesian political rhetoric targeting neighbours aimed at distracting from domestic pressures",
-      "link": "https://www.channelnewsasia.com/singapore/indonesia-politicians-singapore-haze-domestic-frustration-6487141",
-      "date": "2026-10-23T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
-    },
-    {
-      "title": "Commentary: PHP vulnerabilities - why the good guys have notched a victory in AI-cybersecurity age",
-      "link": "https://www.channelnewsasia.com/commentary/php-cybersecurity-flaw-ai-victory-good-guys-6485776",
-      "date": "2026-10-23T22:00:00Z",
-      "source": "Channel NewsAsia",
-      "cat": "asia"
     },
     {
       "title": "Is Christianity Today Any Different Than Those Supposedly Outing the Now Deceased Senator Lindsay Graham? (This is not a political post.)",
@@ -237,13 +300,6 @@
       "cat": "mainstreamreligion"
     },
     {
-      "title": "6 ways poor time management quietly drains your wallet",
-      "link": "https://www.christianpost.com/voices/6-ways-poor-time-management-quietly-drains-your-wallet.html",
-      "date": "2026-10-23T17:21:41Z",
-      "source": "Christian Post",
-      "cat": "evangelical"
-    },
-    {
       "title": "Still Plenty of Room: A Brewers Fan’s World Series Invitation",
       "link": "https://www.crosswalk.com/headlines/contributors/guest-commentary/still-plenty-of-room-a-brewers-fans-world-series-invitation.html",
       "date": "2026-10-23T17:08:44Z",
@@ -363,13 +419,6 @@
       "cat": "evangelical"
     },
     {
-      "title": "Palestinian citizens face a painful choice in Israel’s election: To vote or not",
-      "link": "https://baptistnews.com/article/palestinian-citizens-face-a-painful-choice-in-israels-election-to-vote-or-not/",
-      "date": "2026-10-23T15:45:38Z",
-      "source": "Baptist News Global",
-      "cat": "evangelical"
-    },
-    {
       "title": "Trump Makes Unprecedented Move to Back Netanyahu, Issues Blunt Warning",
       "link": "https://mycharisma.com/news/trump-makes-unprecedented-move-to-back-netanyahu-issues-blunt-warning/",
       "date": "2026-10-23T15:03:21Z",
@@ -398,7 +447,7 @@
       "cat": "evangelical"
     },
     {
-      "title": "Elizabeth Struhs was deemed ‘safe’ by those meant to protect her. An inquest into her death is asking what went wrong",
+      "title": "Authorities said Elizabeth Struhs was ‘safe’. So why did the eight-year-old die?",
       "link": "https://www.theguardian.com/australia-news/2026/oct/24/elizabeth-struhs-death-inquest-what-went-wrong-ntwnfb",
       "date": "2026-10-23T14:00:31Z",
       "source": "The Guardian — Religion",
@@ -475,53 +524,11 @@
       "cat": "asia"
     },
     {
-      "title": "NEA issues legal notices under haze law to 10 Singapore-based companies, including Asia Pulp & Paper",
-      "link": "https://www.straitstimes.com/singapore/environment/nea-issues-legal-notices-under-haze-law-to-10-singapore-based-companies-including-asia-pulp-paper",
-      "date": "2026-10-23T13:00:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Foodpanda rolls out full-time rider jobs with $1,800 salary and full CPF contributions",
-      "link": "https://www.straitstimes.com/singapore/transport/foodpanda-rolls-out-full-time-rider-jobs-with-1800-salary-and-full-cpf-contributions",
-      "date": "2026-10-23T12:20:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Singapore needs 3,000 more volunteers by 2030 as roles expand",
-      "link": "https://www.straitstimes.com/singapore/community/singapore-needs-3000-more-volunteers-by-2030-as-roles-expand",
-      "date": "2026-10-23T12:00:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Brunei’s Prince Mateen visits SAF’s Special Operations Task Force",
-      "link": "https://www.straitstimes.com/singapore/bruneis-prince-mateen-visits-saf-special-operations-task-force",
-      "date": "2026-10-23T11:45:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
-      "title": "Missing: 24-year-old woman last seen in Woodlands on Oct 22",
-      "link": "https://www.straitstimes.com/singapore/missing-24-year-old-woman-last-seen-in-woodlands-on-oct-22",
-      "date": "2026-10-23T11:05:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
-    },
-    {
       "title": "The key message of the LDS Church’s new Visitors’ Center? We’re Christian, darn it.",
       "link": "https://religionnews.com/2026/10/23/the-key-message-of-the-lds-churchs-new-visitors-center-were-christian-darn-it/",
       "date": "2026-10-23T11:01:45Z",
       "source": "Religion News Service",
       "cat": "mainstreamreligion"
-    },
-    {
-      "title": "Over $180,000 lost in phishing scams on Carousell since July: Police",
-      "link": "https://www.straitstimes.com/singapore/over-180000-lost-in-phishing-scams-on-carousell-since-july-police",
-      "date": "2026-10-23T10:55:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
     },
     {
       "title": "The Bishop Problem. Where is the next Generation of Leaders coming from?",
@@ -543,13 +550,6 @@
       "date": "2026-10-23T10:00:00Z",
       "source": "Christianity Today",
       "cat": "evangelical"
-    },
-    {
-      "title": "Drainage canal in flood-prone Bukit Timah fully upgraded after 7-year work on final stretch",
-      "link": "https://www.straitstimes.com/singapore/environment/drainage-canal-in-flood-prone-bukit-timah-fully-upgraded-after-7-year-work-on-final-stretch",
-      "date": "2026-10-23T10:00:00Z",
-      "source": "Straits Times",
-      "cat": "asia"
     },
     {
       "title": "Rome reporter's new memoir sheds light on why Vatican reform remains tricky",
